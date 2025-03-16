@@ -1,0 +1,2 @@
+New Result: This is a test text file.
+This is first text file.
